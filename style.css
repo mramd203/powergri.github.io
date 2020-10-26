@@ -1,0 +1,107 @@
+body {
+    background-color: #0E0D20;
+    color: #ffffff;
+
+    font-family: 'Bebas Neue', cursive;
+
+    font-size: 20px;
+}
+
+a {
+    opacity: 0.5;
+    color: #FF7800;
+}
+
+a:hover {
+    opacity: 1;
+    color: #FF7800;
+}
+
+strong {
+    color: #FF7800;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+#main {
+    background-color: #0E0D20;
+
+    border-radius: 5px;
+
+}
+
+/* Title */
+
+#title {
+    text-align: center;
+
+    font-size: 70px;
+
+    padding: 10px;
+    margin-top: -5px;
+}
+
+.sup__title {
+    font-size: 20px;
+
+    text-align: center;
+
+    margin-top: -60px;
+    margin-bottom: 20px;
+}
+
+/* Img */
+
+#img-div {
+    background-color: #00010E;
+
+    border: 1px #ffffff solid;
+    border-radius: 5px;
+
+    margin: 20px;
+    padding: 40px;
+}
+
+#image {
+    width: 1000px;
+    height: px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+/* TRIBUTE INFO */
+
+#tribute-info {
+    background-color: #00010E;
+
+    border: 1px #ffffff solid;
+    border-radius: 5px;
+
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 40px;
+}
+
+#headline {
+    margin-top: 80px;
+    margin-bottom: -30px;
+    font-size: 40px;
+    text-align: center;
+}
+
+li {
+    padding: 1%;
+}
+
+
